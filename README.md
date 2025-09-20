@@ -1,6 +1,6 @@
 ## KỸ THUẬT LẬP TRÌNH STATA VÀ PYTHON - UEH - 2025
 
-Đại học Kinh tế TP.HCM, Việt Nam\n\
+Đại học Kinh tế TP.HCM, Việt Nam\n
 Sinh viên: Nguyễn Thùy Dung 
 
 ### Nội dung môn học
